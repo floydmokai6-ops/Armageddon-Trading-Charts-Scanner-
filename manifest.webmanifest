@@ -1,0 +1,17 @@
+{
+  "name": "Armageddon Chart Scanner 2.0",
+  "short_name": "Armageddon",
+  "description": "Live chart scanner: Gold, Forex, Crypto, Indices and Synthetics with Shadow Entry, Scalping, ICT and Price Action signals.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0605",
+  "theme_color": "#0a0605",
+  "categories": ["finance", "utilities"],
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
